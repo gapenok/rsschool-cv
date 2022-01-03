@@ -1,5 +1,5 @@
 .text_left1 {
-    text-align: left;
+    text-align: center;
     font-size: 32pt;
     font-weight: bold;
  }
@@ -9,19 +9,19 @@ html {
         background-size: 100%;
        }
 .text2{
-    text-align: left;
+    text-align: center;
     font-size: 18pt;
     color: rgb(0, 0, 0);
 
 }  
 .text_left {
-    text-align: left;
+    text-align: center;
     font-size: 16pt;
     font-weight: bold;
     color: rgb(0, 0, 0);
 }
 .text3{
-    text-align: left;
+    text-align: center;
     font-size: 24pt;
     color: rgb(0, 0, 0);
 
@@ -29,7 +29,13 @@ html {
 .next{
     color: rgb(15, 0, 226);   
 } 
-
-
-
+.col_lev {
+    text-align: left;
+}
+.col_cen {
+    text-align: left;
+}
+.col_reh {
+    text-align: left;
+}
 
