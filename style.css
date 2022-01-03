@@ -1,0 +1,35 @@
+.text_left1 {
+    text-align: left;
+    font-size: 32pt;
+    font-weight: bold;
+ }
+html {
+        background-image: url(images.jpg);
+        background-attachment: scroll;
+        background-size: 100%;
+       }
+.text2{
+    text-align: left;
+    font-size: 18pt;
+    color: rgb(0, 0, 0);
+
+}  
+.text_left {
+    text-align: left;
+    font-size: 16pt;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+.text3{
+    text-align: left;
+    font-size: 24pt;
+    color: rgb(0, 0, 0);
+
+}  
+.next{
+    color: rgb(15, 0, 226);   
+} 
+
+
+
+
